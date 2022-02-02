@@ -1,2 +1,2 @@
-# vanilla-js-studentprojects-project40-portfolio
-Portfolio
+# vanilla-js-studentprojects-project39-List of resourses
+List of resourses
